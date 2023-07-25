@@ -25,7 +25,7 @@
   
   <img src="257395128_1546232285736542_7243492499334481216_n.jpg" width="600" height="650" /><br><br><br>
   
-    <img src="106088297_1171823829844058_5323458475104390221_n.jpg" width="600" height="650" /><br><br><br>
+  
  
 
   🌍  I'm based in Bangkok , Thailand <br>
@@ -64,7 +64,7 @@
 
 <a href="http://www.github.com/copter15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=copter15&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br><br>
   
-  <p><iframe src="https://www.youtube.com/embed/9EDZixuODrw?controls=0" width="420" height="315"></iframe></p>
+
 
 
   </body>
