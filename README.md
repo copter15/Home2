@@ -18,8 +18,6 @@
 <h3 style="text-align: left;"><strong>&nbsp; - มหาวิทยาลัยราชภัฏพระนคร สาขาอิเล็กทรอนิกส์คอมพิวเตอร์</strong></h3>
   
   
-  <a href="https://pnru.ac.th"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A0%E0%B8%B1%E0%B8%8F%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3.png"width="200" height="150"> </a><br>
-  
 <h2 style="color:Tomato; text-align: left;"><strong>&nbsp; งานอดิเรก &#128516;</strong></h2>
 <h3><em><strong>&nbsp; - ดูหนัง / ฟังเพลง / เล่นเกม / อ่านการ์ตูน</strong></em></h3>
 
