@@ -3,7 +3,7 @@
 
   <head>
     
-<title> แนะนำตัวเอง </title>
+
 <meta charset="UTF-8">
 <link rel="icon" type="image/png" href="tool11_122838.png">
 </head>
